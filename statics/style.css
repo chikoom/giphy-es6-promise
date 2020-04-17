@@ -35,3 +35,12 @@ body, html {
     font-size: 25px;
     letter-spacing: 10px;
 }
+.caption span.blurb
+{
+    background-color: #111;
+    color: #fff;
+    margin-top:10px;
+    padding: 10px 10px 10px 20px;
+    font-size: 15px;
+    display: inline-block;
+}
